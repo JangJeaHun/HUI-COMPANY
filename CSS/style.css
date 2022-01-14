@@ -186,4 +186,11 @@ z-index: 1000;
     background: url(/index.html);
 
 }
+/******************main index.html end**************************************/
 
+#service li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 0;
+}
